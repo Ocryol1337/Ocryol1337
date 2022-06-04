@@ -3,9 +3,7 @@
 ## I am a Student who likes to code!
 
 
-• 🎯 I'm trying to make some public projects, web templates   
-• 💼 I'm currently focusing on my youtube channel
-• 🌱 I’m currently learning Game Development  
+• 🎯 I'm trying to make some public projects, web templates    
 • 👯 I’m looking to collaborate on Python projects 
 
 ## 📫 Reach me:
